@@ -1,5 +1,5 @@
 function functionName() {
- alert("functionName");
+  alert("functionName");
 }
 
 functionName();
